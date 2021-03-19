@@ -9,10 +9,6 @@ import com.db.awmd.challenge.service.EmailNotificationService;
 import java.math.BigDecimal;
 import java.util.Map;
 import java.util.concurrent.ConcurrentHashMap;
-
-import org.hibernate.validator.internal.constraintvalidators.bv.NotNullValidator;
-import org.springframework.http.HttpStatus;
-import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Repository;
 
 @Repository
